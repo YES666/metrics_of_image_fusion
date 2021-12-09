@@ -1,2 +1,2 @@
 # metrics_of_image_fusion
-图像融合的各种评价指标
+各处收集的图像融合的各种评价指标使用new.m可以运行
